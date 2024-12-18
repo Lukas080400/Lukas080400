@@ -1,27 +1,40 @@
-<h1 align="center">Hi 👋, I'm Lukas</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h1 align="center">👋 Hi, ich bin Lukas!</h1>
+<h3 align="center">Software || Frontend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukas080400&label=Profile%20views&color=0e75b6&style=flat" alt="lukas080400" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukas080400" alt="lukas080400" /></a> </p>
+<h2>Über mich 🚀</h2>
+<p>
+  Ich bin ein leidenschaftlicher <strong>Software- und Frontend-Entwickler</strong>, der sich auf die Gestaltung moderner und effizienter Anwendungen spezialisiert hat. Mein Fokus liegt auf:
+</p>
+<ul>
+  <li><strong>Frontend-Entwicklung:</strong> HTML, CSS, JavaScript, SWIFT</li>
+  <li><strong>Backend-Logik:</strong> LUA, MySQL, Python</li>
+  <li><strong>Game Development:</strong> Unreal Engine</li>
+</ul>
+<p>Ich liebe es, Projekte zu erstellen, die eine perfekte Mischung aus Kreativität und Technik bieten.</p>
 
-- 🔭 I’m currently working on [FeuerPedia](Feuer-Pedia.de)
+---
 
-- 🌱 I’m currently learning **Lua**
-
-- 💬 Ask me about **HTML, CSS, SWIFT, MySQL and JS**
-
-- 📫 How to reach me **Lukas.mcjk@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2>🔥 Aktuelles Projekt</h2>
+<p>
+  Schau dir mein neuestes Projekt an:  
+  <a href="https://www.feuer-pedia.de/" target="_blank"><strong>🌐 Feuer-Pedia</strong></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukas080400&show_icons=true&locale=en&layout=compact" alt="lukas080400" /></p>
+<h2>⚡ Tools & Statistiken</h2>
+<p>
+  <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&color=E34F26" alt="HTML Badge">
+  <img src="https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&color=1572B6" alt="CSS Badge">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=FA7343" alt="Swift Badge">
+  <img src="https://img.shields.io/badge/Tools-Unreal%20Engine-informational?style=flat&logo=unreal-engine&color=0E1128" alt="Unreal Engine Badge">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" alt="Python Badge">
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lukas080400&show_icons=true&locale=en" alt="lukas080400" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukas080400&" alt="lukas080400" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lukas080400&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas080400&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
