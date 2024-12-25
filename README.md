@@ -9,10 +9,9 @@
 </p>
 <ul>
   <li><strong>Frontend-Entwicklung:</strong> HTML, CSS, JavaScript, SWIFT</li>
-  <li><strong>Backend-Logik:</strong> LUA, MySQL, Python</li>
+  <li><strong>Backend-Logik:</strong> LUA, MySQL, Python, LUA</li>
   <li><strong>Game Development:</strong> Unreal Engine</li>
 </ul>
-<p>Ich liebe es, Projekte zu erstellen, die eine perfekte Mischung aus Kreativität und Technik bieten.</p>
 
 ---
 
@@ -32,6 +31,7 @@
   <img src="https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&color=FA7343" alt="Swift Badge">
   <img src="https://img.shields.io/badge/Tools-Unreal%20Engine-informational?style=flat&logo=unreal-engine&color=0E1128" alt="Unreal Engine Badge">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB" alt="Python Badge">
+  <img src="https://img.shields.io/badge/Code-lua-informational?style=flat&logo=LUA&color=FA7343" alt="LUA">
 </p>
 
 <div align="center">
