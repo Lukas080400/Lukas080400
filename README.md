@@ -9,7 +9,7 @@
 </p>
 <ul>
   <li><strong>Frontend-Entwicklung:</strong> HTML, CSS, JavaScript, SWIFT</li>
-  <li><strong>Backend-Logik:</strong> LUA, MySQL, Python, LUA</li>
+  <li><strong>Backend-Logik:</strong> LUA, MySQL, Python</li>
   <li><strong>Game Development:</strong> Unreal Engine</li>
 </ul>
 
