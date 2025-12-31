@@ -34,7 +34,4 @@
   <img src="https://img.shields.io/badge/Code-lua-informational?style=flat&logo=LUA&color=FA7343" alt="LUA">
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukas080400&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukas080400&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</div>
+
