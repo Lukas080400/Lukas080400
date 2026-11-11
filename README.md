@@ -1,7 +1,8 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=240&section=header&text=Lukas&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20%26%20Frontend%20Developer&descSize=22&descAlignY=60" alt="Header" width="100%" />
+<h1>👋 Hi, ich bin Lukas!</h1>
+<h3>Software & Frontend Developer</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=F7931E&center=true&vCenter=true&width=650&lines=Moderne+Webanwendungen+bauen+%F0%9F%8C%90;Sauberen+und+wartbaren+Code+schreiben+%E2%9C%A8;Spiele+mit+der+Unreal+Engine+entwickeln+%F0%9F%8E%AE;Apps+f%C3%BCr+iOS+mit+Swift+bauen+%F0%9F%93%B1;Jeden+Tag+etwas+Neues+lernen+%F0%9F%9A%80" alt="Typing SVG" />
@@ -28,10 +29,8 @@ Ich bin **Lukas**, ein leidenschaftlicher **Software- und Frontend-Entwickler**.
 | | |
 |---|---|
 | 🔭 **Ich arbeite an** | [Feuer-Pedia](https://www.feuer-pedia.de/) |
-| 🌱 **Ich lerne gerade** | SwiftUI, TypeScript, Unreal Blueprints *(anpassen)* |
+| 🌱 **Ich lerne gerade** | SwiftUI, TypeScript |
 | 💬 **Frag mich nach** | Frontend, Lua-Scripting, Unreal Engine, MySQL |
-| 🎯 **Mein Ziel 2026** | Eine eigene App im App Store veröffentlichen *(anpassen)* |
-| ⚡ **Fun Fact** | Läuft bei mir nur mit Kaffee ☕ *(anpassen)* |
 
 ---
 
@@ -44,8 +43,12 @@ Ich bin **Lukas**, ein leidenschaftlicher **Software- und Frontend-Entwickler**.
 **Frontend**<br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,swift&perline=8" alt="Frontend" />
 
+<br/>
+
 **Backend & Datenbanken**<br/>
 <img src="https://skillicons.dev/icons?i=python,lua,mysql&perline=8" alt="Backend" />
+
+<br/>
 
 **Game Development & Tools**<br/>
 <img src="https://skillicons.dev/icons?i=unreal,git,github,vscode&perline=8" alt="Tools" />
@@ -73,9 +76,9 @@ Ich bin **Lukas**, ein leidenschaftlicher **Software- und Frontend-Entwickler**.
 
 ---
 
-<!-- ===================== PROJEKTE ===================== -->
+<!-- ===================== PROJEKT ===================== -->
 
-## 🔥 Projekte
+## 🔥 Aktuelles Projekt
 
 <div align="center">
 
@@ -86,81 +89,6 @@ Ich bin **Lukas**, ein leidenschaftlicher **Software- und Frontend-Entwickler**.
 <br/><br/>
 
 *Schau gerne vorbei und sag mir, wie du es findest!*
-
-</div>
-
-### 📌 Ausgewählte Repositories
-
-<div align="center">
-
-<a href="https://github.com/DEIN-USERNAME/REPO-1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=REPO-1&theme=tokyonight&hide_border=true" alt="Repo 1" />
-</a>
-<a href="https://github.com/DEIN-USERNAME/REPO-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=REPO-2&theme=tokyonight&hide_border=true" alt="Repo 2" />
-</a>
-<br/>
-<a href="https://github.com/DEIN-USERNAME/REPO-3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=REPO-3&theme=tokyonight&hide_border=true" alt="Repo 3" />
-</a>
-<a href="https://github.com/DEIN-USERNAME/REPO-4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DEIN-USERNAME&repo=REPO-4&theme=tokyonight&hide_border=true" alt="Repo 4" />
-</a>
-
-</div>
-
----
-
-<!-- ===================== STATISTIKEN ===================== -->
-
-## 📊 GitHub-Statistiken
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DEIN-USERNAME&show_icons=true&count_private=true" alt="GitHub Stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact&theme=default&hide_border=true">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN-USERNAME&layout=compact" alt="Top Sprachen" />
-</picture>
-
-</div>
-
-<details>
-<summary><b>🔥 Streak, Trophäen & Aktivität anzeigen</b></summary>
-<br/>
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DEIN-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=DEIN-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophäen" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DEIN-USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="Aktivitätsgraph" width="95%" />
-
-</div>
-</details>
-
----
-
-<!-- ===================== SNAKE ===================== -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DEIN-USERNAME/DEIN-USERNAME/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DEIN-USERNAME/DEIN-USERNAME/output/github-snake.svg">
-  <img alt="Snake Animation" src="https://raw.githubusercontent.com/DEIN-USERNAME/DEIN-USERNAME/output/github-snake.svg" />
-</picture>
 
 </div>
 
@@ -185,13 +113,7 @@ Ich bin **Lukas**, ein leidenschaftlicher **Software- und Frontend-Entwickler**.
 <a href="https://www.feuer-pedia.de/" target="_blank">
   <img src="https://img.shields.io/badge/Website-Feuer--Pedia-F7931E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
 </a>
-<a href="mailto:DEINE@MAIL.DE">
-  <img src="https://img.shields.io/badge/E--Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail" />
-</a>
-<a href="https://www.linkedin.com/in/DEIN-PROFIL" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://discord.com/users/DEINE-ID" target="_blank">
+<a href="https://discord.com/users/614024058899791884" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
 
@@ -200,6 +122,3 @@ Ich bin **Lukas**, ein leidenschaftlicher **Software- und Frontend-Entwickler**.
 <sub>⭐ Wenn dir mein Profil gefällt, lass gerne einen Stern da! ⭐</sub>
 
 </div>
-
-<!-- ===================== FOOTER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" width="100%" />
